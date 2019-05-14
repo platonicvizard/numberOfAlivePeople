@@ -1,0 +1,11 @@
+G:\Projects\NumberOfAlivePeople\NumerOfAlivePeopleCS\obj\Debug\netcoreapp2.2\NumerOfAlivePeopleCS.csprojAssemblyReference.cache
+G:\Projects\NumberOfAlivePeople\NumerOfAlivePeopleCS\obj\Debug\netcoreapp2.2\NumerOfAlivePeopleCS.csproj.CoreCompileInputs.cache
+G:\Projects\NumberOfAlivePeople\NumerOfAlivePeopleCS\obj\Debug\netcoreapp2.2\NumerOfAlivePeopleCS.AssemblyInfoInputs.cache
+G:\Projects\NumberOfAlivePeople\NumerOfAlivePeopleCS\obj\Debug\netcoreapp2.2\NumerOfAlivePeopleCS.AssemblyInfo.cs
+G:\Projects\NumberOfAlivePeople\NumerOfAlivePeopleCS\bin\Debug\netcoreapp2.2\NumerOfAlivePeopleCS.deps.json
+G:\Projects\NumberOfAlivePeople\NumerOfAlivePeopleCS\bin\Debug\netcoreapp2.2\NumerOfAlivePeopleCS.runtimeconfig.json
+G:\Projects\NumberOfAlivePeople\NumerOfAlivePeopleCS\bin\Debug\netcoreapp2.2\NumerOfAlivePeopleCS.runtimeconfig.dev.json
+G:\Projects\NumberOfAlivePeople\NumerOfAlivePeopleCS\bin\Debug\netcoreapp2.2\NumerOfAlivePeopleCS.dll
+G:\Projects\NumberOfAlivePeople\NumerOfAlivePeopleCS\bin\Debug\netcoreapp2.2\NumerOfAlivePeopleCS.pdb
+G:\Projects\NumberOfAlivePeople\NumerOfAlivePeopleCS\obj\Debug\netcoreapp2.2\NumerOfAlivePeopleCS.dll
+G:\Projects\NumberOfAlivePeople\NumerOfAlivePeopleCS\obj\Debug\netcoreapp2.2\NumerOfAlivePeopleCS.pdb
